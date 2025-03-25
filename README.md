@@ -11,7 +11,7 @@ Smooth Animations & Transitions
 Contact Form for Easy Communication
 
 🔗 Live Demo
-View Portfolio (Replace with your actual link)
+(https://arunkrishna754.github.io/portfolio-simple-website/)
 
 📌 How to Run
 Clone the repository:
