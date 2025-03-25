@@ -19,5 +19,5 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-portfolio.git
+git clone [https://github.com/your-username/your-portfolio.git](https://github.com/Arunkrishna754/portfolio-simple-website.git)
 Open index.html in your browser.
